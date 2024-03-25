@@ -22,4 +22,5 @@ a patch will become 1.0.1, see below), and for minor (see below), we will do the
 | Is a big imporvement, such as redesigned UI | Is a small improvement, such as fixing bugs or adding small new features | Is a unnoticeable change, such as a security patch |
 
 Thank you for your time,
+
 The OpSNuG team
