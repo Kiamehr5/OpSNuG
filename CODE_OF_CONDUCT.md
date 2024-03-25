@@ -65,8 +65,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify kiamehr13922014@gmail.com with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. This Link
-
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify kiamehr13922014@gmail.com with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 Make sure it's no spam otherwise will be kicked out of the OpSNuG community
 
 ## 9. Scope
