@@ -18,4 +18,3 @@ How does OpSNuG work? It all started when I was bored of traditional seed method
 # Thanks to Our Contributors
 
 - Kiamehr Eskandari 
-- Andrew Robbertson
